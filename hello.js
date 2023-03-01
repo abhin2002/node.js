@@ -1,1 +1,4 @@
-console.log('hello world')
+
+module.export.hi=function(){
+    console.log('hi friends')
+}
